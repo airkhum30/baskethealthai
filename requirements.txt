@@ -1,0 +1,6 @@
+ultralytics
+pandas
+numpy
+matplotlib
+opencv-python
+pillow
