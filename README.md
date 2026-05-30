@@ -3,7 +3,7 @@ Vision-AI system for grocery basket analysis, health scoring, and healthier prod
 
 
 Dataset Sources: 
-Base Training - 
+
 **1. Retail Product Dataset (NIT Patna)**
 https://universe.roboflow.com/iit-patna-qg1jh/grocery_items-7i2em
 
