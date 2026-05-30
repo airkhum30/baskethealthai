@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 22
+names: ['bakery_products', 'bread_refined', 'carbonated_drink', 'cereals_grains', 'chips_snacks', 'chocolate_confectionery', 'dairy', 'dairy_products', 'icecream_frozen_desserts', 'instant_processed_foods', 'juice', 'milk_drink', 'misc_food', 'non_food_item', 'noodles_instant', 'salty_snacks_fried', 'sauces_spreads', 'spreads_sugary_fatty', 'staples_cereals', 'sugary_drinks', 'sweet_biscuits_bakery', 'water']
+
+roboflow:
+  workspace: rakeshs-workspace-actqh
+  project: rakeshs-workspace-actqh
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/rakeshs-workspace-actqh/rakeshs-workspace-actqh/dataset
